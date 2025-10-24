@@ -22,7 +22,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.139.3
+      HUGO_VERSION: 0.146.0  # Updated to be compatible with PaperMod
     steps:
       - name: Install Hugo CLI
         run: |
@@ -38,8 +38,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
       
       - name: Build with Hugo
         env:
