@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/elo-webpage/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/</loc>
     <lastmod>2025-10-23T21:27:56-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/about/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/about/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/blog/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/blog/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/categories/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/categories/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/cv/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/cv/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/tags/learning/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/tags/learning/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/portfolio/project-1/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/portfolio/project-1/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/tags/machine-learning/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/tags/machine-learning/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/blog/my-first-post/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/blog/my-first-post/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/portfolio/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/portfolio/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/tags/python/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/tags/python/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/tags/pytorch/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/tags/pytorch/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/tags/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/tags/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/elo-webpage/categories/thoughts/</loc>
+    <loc>https://elotech47.github.io/elo-webpage/categories/thoughts/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url>
 </urlset>
