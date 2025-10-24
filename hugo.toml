@@ -1,9 +1,8 @@
-baseURL = 'https://elotech47.github.io/elo-webpage/'
+baseURL = 'https://elotechy.com/'
 languageCode = 'en-us'
 title = 'elotechy'
 theme = 'PaperMod'
 relativeURLs = false
-
 
 # Google Analytics 
 [services]
@@ -60,6 +59,7 @@ relativeURLs = false
 
   # RSS description
   rssDescription = "PhD Researcher | ML Engineer - Writing about AI, Engineering, and Research"
+  ShowRssButtonInSectionTermList = true
 
 [privacy]
   [privacy.googleAnalytics]
@@ -84,13 +84,13 @@ relativeURLs = false
     weight = 3
 
   [[menu.main]]
-    name = "CV"
+    name = "About"
     url = "/cv/"
     weight = 4
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Subscribe"
+    url = "/subscribe/"
     weight = 5
 
 [markup]
