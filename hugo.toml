@@ -2,6 +2,7 @@ baseURL = 'https://elotech47.github.io/elo-webpage/'
 languageCode = 'en-us'
 title = 'elotechy'
 theme = 'PaperMod'
+relativeURLs = false
 
 [params]
   description = "PhD Researcher | Machine Learning Engineer | AI for Engineering & Public Safety"
@@ -11,7 +12,7 @@ theme = 'PaperMod'
     enabled = true
     title = "Eloghosa Anderson Ikponmwoba"
     subtitle = "PhD Researcher | Machine Learning Engineer"
-    imageUrl = "/elo-webpage/images/elo_cropped.jpg"  # Add your profile picture here
+    imageUrl = "images/elo_cropped.jpg"  # Add your profile picture here
     imageWidth = 300
     imageHeight = 300
     imageTitle = "Eloghosa Ikponmwoba"
