@@ -19,15 +19,15 @@ relativeURLs = false
     
     [[params.profileMode.buttons]]
       name = "Blog"
-      url = "/blog/"
+      url = "/elo-webpage/blog/"
     
     [[params.profileMode.buttons]]
       name = "Portfolio"
-      url = "/portfolio/"
+      url = "/elo-webpage/portfolio/"
     
     [[params.profileMode.buttons]]
       name = "CV"
-      url = "/cv/"
+      url = "/elo-webpage/cv/"
     
     [[params.profileMode.buttons]]
       name = "Contact"
