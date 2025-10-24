@@ -4,10 +4,16 @@ title = 'elotechy'
 theme = 'PaperMod'
 relativeURLs = false
 
+
+# Google Analytics 
+[services]
+  [services.googleAnalytics]
+    id = "G-FJDRKNE2L9"  # Replace with your Google Analytics Tracking ID
+
 [params]
   description = "PhD Researcher | Machine Learning Engineer | AI for Engineering & Public Safety"
   author = "Eloghosa Anderson Ikponmwoba"
-  
+  env = "production"
   [params.profileMode]
     enabled = true
     title = "Eloghosa Anderson Ikponmwoba"
@@ -33,6 +39,9 @@ relativeURLs = false
       name = "Contact"
       url = "mailto:eloghosaefficiency@gmail.com"
 
+  [params]
+    ShowRssButtonInSectionTermList = true
+
   # Social links
   [[params.socialIcons]]
     name = "email"
@@ -49,6 +58,11 @@ relativeURLs = false
   [[params.socialIcons]]
     name = "googlescholar"
     url = "https://scholar.google.com/citations?user=_UKj_poAAAAJ&hl=en"  # Add your Google Scholar
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
 
 # Menu configuration
 [menu]
@@ -81,3 +95,28 @@ relativeURLs = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
+
+# RSS Configuration
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "feed"  # This creates feed.xml instead of index.xml
+    isPlainText = false
+
+# RSS Params
+[params]
+  description = "PhD Researcher | ML Engineer - Writing about AI, Engineering, and Research"
+  
+[author]
+  name = "Eloghosa Anderson Ikponmwoba"
+  email = "eloghosaefficiency@gmail.com"
+
+# Copyright notice in RSS
+copyright = "© 2025 Eloghosa Anderson Ikponmwoba"
