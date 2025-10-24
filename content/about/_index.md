@@ -3,7 +3,7 @@ title: "About Me"
 date: 2025-10-23
 ---
 
-Hi! I'm [Your Name], a Python developer, Machine Learning Engineer, and PhD student.
+Hi! I'm Eloghosa Ikponmwoba, a Python developer, Machine Learning Engineer, and PhD student.
 
 ## Background
 
