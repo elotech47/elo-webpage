@@ -1,0 +1,47 @@
+baseURL = 'https://elotech47.github.io/'
+languageCode = 'en-us'
+title = 'Your Name - ML Engineer & PhD Student'
+theme = 'PaperMod'
+
+[params]
+  description = "Python Developer, Machine Learning Engineer, PhD Student exploring AI, Engineering, and Computational Science"
+  author = "Your Name"
+  
+  # Social links
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/elotech47"
+  
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/yourprofile"
+  
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:your.email@example.com"
+
+# Main menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 2
+
+[[menu.main]]
+  name = "Portfolio"
+  url = "/portfolio/"
+  weight = 3
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allows HTML in markdown
