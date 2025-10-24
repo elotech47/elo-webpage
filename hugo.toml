@@ -39,8 +39,7 @@ relativeURLs = false
       name = "Contact"
       url = "mailto:eloghosaefficiency@gmail.com"
 
-  [params]
-    ShowRssButtonInSectionTermList = true
+  ShowRssButtonInSectionTermList = true
 
   # Social links
   [[params.socialIcons]]
@@ -58,6 +57,9 @@ relativeURLs = false
   [[params.socialIcons]]
     name = "googlescholar"
     url = "https://scholar.google.com/citations?user=_UKj_poAAAAJ&hl=en"  # Add your Google Scholar
+
+  # RSS description
+  rssDescription = "PhD Researcher | ML Engineer - Writing about AI, Engineering, and Research"
 
 [privacy]
   [privacy.googleAnalytics]
@@ -111,8 +113,6 @@ relativeURLs = false
     isPlainText = false
 
 # RSS Params
-[params]
-  description = "PhD Researcher | ML Engineer - Writing about AI, Engineering, and Research"
   
 [author]
   name = "Eloghosa Anderson Ikponmwoba"
