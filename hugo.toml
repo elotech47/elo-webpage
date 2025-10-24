@@ -19,15 +19,15 @@ relativeURLs = false
     
     [[params.profileMode.buttons]]
       name = "Blog"
-      url = "/blog"
+      url = "/blog/"
     
     [[params.profileMode.buttons]]
       name = "Portfolio"
-      url = "/portfolio"
+      url = "/portfolio/"
     
     [[params.profileMode.buttons]]
       name = "CV"
-      url = "/cv"
+      url = "/cv/"
     
     [[params.profileMode.buttons]]
       name = "Contact"
