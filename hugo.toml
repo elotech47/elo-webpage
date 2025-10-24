@@ -1,4 +1,4 @@
-baseURL = 'https://elotechy.github.io/'  # or your actual URL
+baseURL = 'https://elotechy.github.io/elo-webpage/'  # or your actual URL
 languageCode = 'en-us'
 title = 'elotechy'
 theme = 'PaperMod'

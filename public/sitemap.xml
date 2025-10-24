@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/elo-webpage/</loc>
     <lastmod>2025-10-23T21:27:56-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/elo-webpage/about/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/elo-webpage/blog/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/elo-webpage/categories/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>http://localhost:1313/elo-webpage/cv/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/learning/</loc>
+    <loc>http://localhost:1313/elo-webpage/tags/learning/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/project-1/</loc>
+    <loc>http://localhost:1313/elo-webpage/portfolio/project-1/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/elo-webpage/tags/machine-learning/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/my-first-post/</loc>
+    <loc>http://localhost:1313/elo-webpage/blog/my-first-post/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>http://localhost:1313/elo-webpage/portfolio/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>http://localhost:1313/elo-webpage/tags/python/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pytorch/</loc>
+    <loc>http://localhost:1313/elo-webpage/tags/pytorch/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/elo-webpage/tags/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/thoughts/</loc>
+    <loc>http://localhost:1313/elo-webpage/categories/thoughts/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url>
 </urlset>
