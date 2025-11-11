@@ -25,7 +25,7 @@ I'll be writing about:
 
 **Computational Science**: Numerical methods, scientific computing, solver development, and the art of making code run faster. I've built tools for chemical kinetics integration and worked extensively with CFD simulations.
 
-**Research Experience**: The reality of PhD life—successful experiments, failed approaches, and lessons learned along the way. Also, thoughts on academic publishing, collaboration, and navigating the research landscape.
+**Research Experience**: The reality of PhD life, successful experiments, failed approaches, and lessons learned along the way. Also, thoughts on academic publishing, collaboration, and navigating the research landscape.
 
 **Startups & Innovation**: Insights from working with INTERPOL on AI systems for child protection, internships in oil & gas optimization, and thoughts on translating research into real-world applications.
 

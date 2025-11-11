@@ -8,8 +8,7 @@ showToc: true
   <h1>Eloghosa Anderson Ikponmwoba</h1>
   <p>
     Louisiana, United States<br>
-    📧 <a href="mailto:eloghosaefficiency@gmail.com">eloghosaefficiency@gmail.com</a> | 
-    📞 +1 225-441-7112<br>
+    📧 <a href="mailto:eloghosaefficiency@gmail.com">eloghosaefficiency@gmail.com</a> |
     <a href="https://linkedin.com/in/eloghosa-ikponmwoba">LinkedIn</a> | 
     <a href="https://scholar.google.com">Google Scholar</a>
   </p>
