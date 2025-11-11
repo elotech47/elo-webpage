@@ -1,6 +1,6 @@
 ---
 title: "Hello World: AI, Computation, and Everything In Between"
-date: 2024-11-11
+date: 2025-11-11
 draft: false
 tags: ["Introduction", "AI", "Research", "Startups"]
 categories: ["Personal"]

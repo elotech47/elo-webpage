@@ -1,6 +1,6 @@
 ---
 title: "Subscribe"
-date: 2025-01-24
+date: 2025-11-11
 description: "Subscribe to my blog for updates on AI, machine learning, and engineering research"
 ---
 
